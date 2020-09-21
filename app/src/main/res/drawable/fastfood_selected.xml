@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_outline_fastfood"
+        android:state_selected="false" tools:ignore="StateListReachable" />
+
+    <item android:drawable="@drawable/ic_fastfood"
+        android:state_selected="true"/>
+
+</selector>

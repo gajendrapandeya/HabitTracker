@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="habits">Habits</string>
+    <string name="create_habit">Create Habit</string>
+    <string name="update_habit">Update Habit</string>
+    <string name="delete_everything">Delete Everything</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="img">Img</string>
+    <string name="title_big">Title Big</string>
+    <string name="days_ago">12 days ago</string>
+    <string name="description">This is a test description the you can add to each item. It should be short though. 2 lines max*</string>
+    <string name="date">Created 12/12/20 at 20:00</string>
+    <string name="placeholder">This is some placeholder text for the intro screen</string>
+    <string name="add_a_habit">Add a habit!</string>
+    <string name="habit_title">Habit title</string>
+    <string name="give_it_a_short_description">Give it a short description</string>
+    <string name="pick_a_date">Pick a date</string>
+    <string name="date_not_selected">Date: (not selected)</string>
+    <string name="pick_a_time">Pick a time</string>
+    <string name="time_not_selected">Time: (not selected)</string>
+    <string name="habit_title">Habit title</string>
+    <string name="give_it_a_short_description">Give it a short description</string>
+    <string name="pick_a_date">Pick a date</string>
+    <string name="date_not_selected">Date: (not selected)</string>
+    <string name="pick_a_time">Pick a time</string>
+    <string name="time_not_selected">Time: (not selected)</string>
+    <string name="confirm">Confirm</string>
+</resources>
